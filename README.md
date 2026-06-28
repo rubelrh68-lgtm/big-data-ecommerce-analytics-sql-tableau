@@ -123,10 +123,10 @@ Sales showed fluctuations over time, highlighting the need for improved demand f
 
 ## Files in This Repository
 
-- `ecommerce_big_data_analytics_portfolio_report.pdf`  
+- [ecommerce_big_data_analytics_portfolio_report.pdf](./ecommerce_big_data_analytics_portfolio_report.pdf)  
   Cleaned portfolio report containing methodology, dashboard insights, forecasting analysis, and business recommendations.
 
-- `ecommerce_data_cleaning_queries.sql`  
+- [ecommerce_data_cleaning_queries.sql](./ecommerce_data_cleaning_queries.sql)  
   SQL queries used for data inspection, cleaning, transformation, and business analysis.
 
 ## Skills Demonstrated
