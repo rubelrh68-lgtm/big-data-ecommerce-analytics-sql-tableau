@@ -139,7 +139,6 @@ Sales showed fluctuations over time, highlighting the need for improved demand f
 - Retail analytics
 - Forecasting interpretation
 - Data-driven recommendation writing
-- Portfolio-style project documentation
 
 ## How to Use This Repository
 
